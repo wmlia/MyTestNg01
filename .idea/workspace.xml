@@ -5,10 +5,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/com/lwm/testng/groups/GroupsOnClass1.java" description="  public void stu11(){&#10;        System.out.println(..." line="14" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f652bf3-101b-433c-a543-79045ca91c5f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9f652bf3-101b-433c-a543-79045ca91c5f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -75,11 +72,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/multiThread.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="33" lean-forward="true" selection-start-column="33" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/TimeOutTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -169,6 +175,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/lwm/testng/multiThread/MultiThreadOnAnnotion.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lwm/testng/multiThread/MultiThreadOnXml.java" />
         <option value="$PROJECT_DIR$/src/main/resources/multiThread.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/TimeOutTest.java" />
       </list>
     </option>
   </component>
@@ -180,8 +187,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="688" />
-    <option name="y" value="99" />
+    <option name="x" value="554" />
+    <option name="y" value="57" />
     <option name="width" value="1764" />
     <option name="height" value="990" />
   </component>
@@ -280,7 +287,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559139573737" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559139901792" />
     <property name="last_opened_file_path" value="E:/SB/最全面的Java接口自动化测试实战/d3a0ij/新建文件夹/Chapter5" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -306,41 +313,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.E:/codes/TestngTest/MyTestNg01/src/main/resources/multiThread.xml">
-    <configuration name="DataProviderTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="MyTestNg01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lwm.testng.parameter.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.lwm.testng.parameter" />
-      <option name="MAIN_CLASS_NAME" value="com.lwm.testng.parameter.DataProviderTest" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DataProviderTest.test1" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="MyTestNg01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lwm.testng.parameter.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.lwm.testng.parameter" />
-      <option name="MAIN_CLASS_NAME" value="com.lwm.testng.parameter.DataProviderTest" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.TimeOutTest">
     <configuration name="E:/codes/TestngTest/MyTestNg01/src/main/resources/multiThread.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MyTestNg01" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/multiThread.xml" />
@@ -402,21 +375,43 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TimeOutTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MyTestNg01" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TimeOutTest" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeOutTest.testSuccess" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MyTestNg01" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TimeOutTest" />
+      <option name="METHOD_NAME" value="testSuccess" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="TestNG.Test01" />
-      <item itemvalue="TestNG.DataProviderTest" />
-      <item itemvalue="TestNG.DataProviderTest.test1" />
       <item itemvalue="TestNG.MultiThreadOnAnnotion" />
       <item itemvalue="TestNG.MultiThreadOnAnnotion.test" />
       <item itemvalue="TestNG.E:/codes/TestngTest/MyTestNg01/src/main/resources/multiThread.xml" />
+      <item itemvalue="TestNG.TimeOutTest.testSuccess" />
+      <item itemvalue="TestNG.TimeOutTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TimeOutTest" />
+        <item itemvalue="TestNG.TimeOutTest.testSuccess" />
         <item itemvalue="TestNG.E:/codes/TestngTest/MyTestNg01/src/main/resources/multiThread.xml" />
         <item itemvalue="TestNG.MultiThreadOnAnnotion.test" />
         <item itemvalue="TestNG.MultiThreadOnAnnotion" />
-        <item itemvalue="TestNG.DataProviderTest" />
-        <item itemvalue="TestNG.DataProviderTest.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -436,14 +431,11 @@
       <workItem from="1557108562493" duration="29000" />
       <workItem from="1557110074378" duration="592000" />
       <workItem from="1559131328217" duration="3637000" />
-      <workItem from="1559138752110" duration="820000" />
+      <workItem from="1559138752110" duration="1137000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DataProviderTest - 2019.05.29 at 20h 37m 48s.xml">
-      <configuration name="DataProviderTest" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="MultiThreadOnAnnotion - 2019.05.29 at 20h 49m 32s.xml">
       <configuration name="MultiThreadOnAnnotion" configurationId="TestNG" />
     </history-entry>
@@ -471,15 +463,18 @@
     <history-entry file="E__codes_TestngTest_MyTestNg01_src_main_resources_multiThread_xml - 2019.05.29 at 22h 16m 03s.xml">
       <configuration name="E:/codes/TestngTest/MyTestNg01/src/main/resources/multiThread.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="TimeOutTest_testSuccess - 2019.05.29 at 22h 23m 22s.xml">
+      <configuration name="TimeOutTest.testSuccess" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19911000" />
+    <option name="totallyTimeSpent" value="20228000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="798" y="49" width="1764" height="990" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18123667" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19953051" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -488,7 +483,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946696" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4976526" visible="true" weight="0.5563991" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4976526" visible="true" weight="0.5992991" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3995327" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -800,6 +795,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="33" lean-forward="true" selection-start-column="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TimeOutTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
         </state>
       </provider>
     </entry>
